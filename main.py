@@ -4,14 +4,15 @@
 The entry is one line: an honest error message from a washing machine that
 spent 40 minutes shaking itself apart because its owner washed a single shoe.
 The humour comes from the truth of the fault (an unbalanced load really does
-make a washer shake) told in the machine's own flat, put-upon voice.
+make a washer shake) told in the machine's own flat, put-upon voice — and the
+twist is the machine calmly reporting what the shaking has turned it into.
 """
 
 import os
 
 ENTRY = (
     "ERROR E12: Unbalanced load. You washed one shoe. One. "
-    "I have been shaking for 40 minutes and I would like to go home now."
+    "I have shaken for 40 minutes and I am now legally a paint mixer."
 )
 
 
